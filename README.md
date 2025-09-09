@@ -3,7 +3,25 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ProJect </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
+     <ul>
+      <li>
+        <a href="https://github.com/Face-Pizza/Cheese-4cut_by-facePizza">치즈 | 표정으로 찍는 네컷사진</a> FE (2024)
+      </li>
+      <li>
+        <a href="https://github.com/LikeLion-at-DGU/2024_fall_festival_front">부스끼리 | 동국대학교 축제 정보 제공 서비스 </a> FE (2024)
+      </li>
+      <li>
+        <a href="https://github.com/line4thon-team15/front-repo">4호선톤 사이트 | 프로젝트 공유 게시판 </a> PD, FE (2024)
+      </li>
+      <li>
+        <a href="https://github.com/LikeLion-at-DGU/2025_DongBak_Frontend">동아리랑 | 동국대학교 동아리박람회 정보 제공 서비스</a> PD (2025)
+      </li>
+      <li>
+        <a href="https://github.com/iam-hyo/VPI_app_ver2">VPI | 유튜브 트랜드 분석, 예측 대시보드 </a> AI, FE (2025~)
+      </li>
+    </ul>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
